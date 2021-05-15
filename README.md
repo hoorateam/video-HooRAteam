@@ -1,3 +1,4 @@
 {
-  "متن۱": "HooRAteam"
+  "متن۱": "HooRAteam",
+  "متن۲": "HooRAteam"
 }
