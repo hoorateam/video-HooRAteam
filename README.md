@@ -1,5 +1,5 @@
 {
-  "متن۱": "HooRAteamخخخ",
+  "متن۱": "HooRAteam",
   "متن۲": "HooRAteam",
   "متن۳": "HooRAteam",
   "متن۴": "HooRAteam",
